@@ -1,1 +1,2 @@
 This is sample requirement file.
+New features added.
